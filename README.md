@@ -1,6 +1,6 @@
 [![View on Juncture](https://shields.io)](https://juncture-digital.org)
 ---
-title: "Sacred Spaces and Royal Power: The Hellenistic Sanctuary at Pergamon"
+"Sacred Spaces and Royal Power: The Hellenistic Sanctuary at Pergamon"
 author: "Your Name"
 layout: factual
 ---

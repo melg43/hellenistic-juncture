@@ -1,10 +1,7 @@
 "Hellenistic Pergamon"
 ### {.right .sticky .clear}
 ```
-.ve - map <39.1325>,<27.1842> <8> 
-    - <Q18986>
-    - <Q158058>
-    - <Q856590>
+.ve-map Q18986,8
 ```
 .ve-media-selector caption="Related Content"
 

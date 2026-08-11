@@ -1,5 +1,3 @@
 "Hellenistic Pergamon"
 ### {.right .sticky .clear}
-```
-`map Q18986,8`
-```
+`map Q60,8`

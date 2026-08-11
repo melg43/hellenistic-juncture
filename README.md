@@ -1,7 +1,8 @@
 "Hellenistic Pergamon"
 ### {.right .sticky .clear}
 ```
-.ve-map <39.1325>,<27.1842> <8> basemaps="OpenStreetMap"
+basemaps="OpenStreetMap"
+.ve-map <39.1325>,<27.1842> <8> 
     - <Q18986>
     - <Q158058>
     - <Q856590>
